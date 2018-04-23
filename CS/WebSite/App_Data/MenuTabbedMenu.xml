@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mainmenu>
+  <item Text="Home" Selected="True">
+    <item Text="News">
+      <item Text="For Visual Studio Developers" />
+      <item Text="For Delphi/C++Builder Developers" />
+    </item>
+    <item Text="Our Mission" />
+    <item Text="Our Awards" />
+    <item Text="Our Customers" />
+    <item Text="Developer Stories" />
+    <item Text="User Comments" />
+    <item Text="Community Site (new window)" />
+    <item Text="Careers at Developer Express" />
+    <item Text="Contact Us" />
+  </item>
+  <item Text="Products">
+    <item Text="Visual Product Locator" />
+    <item Text="Subscriptions / Packages">
+      <item Text="DXperience Enterprise (Visual Studio .NET and v6)" />
+      <item Text="DXperience Professional (Visual Studio .NET)" />
+      <item Text="DXperience ASP.NET (Visual Studio .NET)" />
+      <item Text="ASPxNavigation Suite (Visual Studio .NET)" />
+      <item Text="VCL Subscription (Delphi / C++Builder)" />
+      <item Text="ExpressQuantumPack (Delphi / C++Builder)" />
+      <item Text="XpressDevelopers Studio (ActiveX)" />
+    </item>
+    <item Text=".NET Windows Forms Components">
+      <item Text="Controls in Action" />
+      <item Text="XtraGrid Suite" />
+      <item Text="XtraReports Suite" />
+      <item Text="XtraBars Suite" />
+      <item Text="XtraScheduler Suite" />
+      <item Text="XtraCharts Suite" />
+      <item Text="XtraPivotGrid Suite" />
+      <item Text="XtraLayoutControl Suite" />
+      <item Text="XtraTreeList Suite" />
+      <item Text="XtraVerticalGrid Suite" />
+      <item Text="XtraNavBar Suite" />
+      <item Text="XtraEditors Library" />
+      <item Text="XtraPrinting Library" />
+    </item>
+    <item Text=".NET Reporting-Printing Suites">
+      <item Text="XtraReports Suite" />
+      <item Text="XtraPrinting Library" />
+    </item>
+    <item Text="Visual Studio Productivity Tools">
+      <item Text="Refactor!™ Pro for Visual Studio .NET" />
+      <item Text="CodeRush for Visual Studio .NET" />
+      <item Text="DXCore for Visual Studio .NET" />
+    </item>
+    <item Text="ASP.NET Components">
+      <item Text="Controls in Action" />
+      <item Text="XtraCharts Suite" />
+      <item Text="XtraReports Suite" />
+      <item Text="ASPxGrid and Editors Library" />
+      <item Text="ASPxPivotGrid Suite" />
+      <item Text="ASPxMenu Suite" />
+      <item Text="ASPxNavBar Suite" />
+      <item Text="ASPxPopupControl Suite" />
+      <item Text="ASPxSiteMapControl Suite" />
+      <item Text="ASPxTabControl Suite" />
+    </item>
+    <item Text="VCL Components-Tools">
+      <item Text="Controls in Action" />
+      <item Text="ExpressQuantumGrid Suite" />
+      <item Text="ExpressBars Suite" />
+      <item Text="ExpressPrinting System" />
+      <item Text="ExpressScheduler Suite" />
+      <item Text="ExpressPivotGrid Suite" />
+      <item Text="ExpressQuantumTreeList Suite" />
+      <item Text="ExpressVerticalGrid Suite" />
+      <item Text="ExpressNavBar Suite" />
+      <item Text="ExpressLayout Control" />
+      <item Text="ExpressSpreadSheet (Cross-Platform)" />
+      <item Text="ExpressMasterView" />
+      <item Text="ExpressDBTree Suite" />
+      <item Text="ExpressOrgChart Suite" />
+      <item Text="ExpressFlowChart Suite" />
+      <item Text="ExpressWeb Framework for Delphi 6/7" />
+      <item Text="Express ForumLibrary" />
+    </item>
+    <item Text="Business Application Frameworks">
+      <item Text="eXpressApp Framework" />
+      <item Text="eXpress Persistent Objects" />
+    </item>
+    <item Text="ActiveX-COM Technologies">
+      <item Text="XpressQuantumGrid" />
+      <item Text="XpressQuantumTreeList" />
+      <item Text="XpressEditors Library" />
+      <item Text="XpressInspector" />
+      <item Text="XpressSideBar" />
+      <item Text="XpressPrinting System" />
+      <item Text="ActiveX FreeLibrary" />
+    </item>
+  </item>
+  <item Text="Downloads">
+    <item Text=".NET Windows Forms Components">
+      <item Text="XtraGrid Suite" />
+      <item Text="XtraReports Suite" />
+      <item Text="XtraBars Suite" />
+      <item Text="XtraScheduler Suite" />
+      <item Text="XtraPivotGrid Suite" />
+      <item Text="XtraCharts Suite" />
+      <item Text="XtraLayoutControl Suite" />
+      <item Text="XtraTreeList Suite" />
+      <item Text="XtraVerticalGrid Suite" />
+      <item Text="XtraNavBar Suite" />
+      <item Text="XtraEditors Library" />
+      <item Text="XtraPrinting Library" />
+    </item>
+    <item Text=".NET Reporting-Printing Suites">
+      <item Text="XtraReports Suite" />
+      <item Text="XtraPrinting Library" />
+    </item>
+    <item Text="Visual Studio Productivity Tools">
+      <item Text="Refactor!™ Pro for Visual Studio .NET" />
+      <item Text="CodeRush for Visual Studio .NET" />
+      <item Text="DXCore for Visual Studio .NET" />
+    </item>
+    <item Text="ASP.NET Components">
+      <item Text="XtraCharts Suite" />
+      <item Text="XtraReports Suite" />
+      <item Text="ASPxGrid and Editors Library" />
+      <item Text="ASPxPivotGrid Suite" />
+      <item Text="ASPxMenu Suite" />
+      <item Text="ASPxNavBar Suite" />
+      <item Text="ASPxPopupControl Suite" />
+      <item Text="ASPxSiteMapControl Suite" />
+      <item Text="ASPxTabControl Suite" />
+    </item>
+    <item Text="VCL Components-Tools">
+      <item Text="ExpressQuantumGrid Suite" />
+      <item Text="ExpressBars Suite" />
+      <item Text="ExpressPrinting System" />
+      <item Text="ExpressScheduler Suite" />
+      <item Text="ExpressPivotGrid Suite" />
+      <item Text="ExpressQuantumTreeList Suite" />
+      <item Text="ExpressVerticalGrid Suite" />
+      <item Text="ExpressNavBar Suite" />
+      <item Text="ExpressLayout Control" />
+      <item Text="ExpressSpreadSheet (Cross-Platform)" />
+      <item Text="ExpressMasterView" />
+      <item Text="ExpressDBTree Suite" />
+      <item Text="ExpressOrgChart Suite" />
+      <item Text="ExpressFlowChart Suite" />
+      <item Text="Express ForumLibrary" />
+    </item>
+    <item Text="Business Application Frameworks">
+      <item Text="eXpressApp Framework" />
+      <item Text="eXpress Persistent Objects" />
+    </item>
+    <item Text="ActiveX-COM Technologies">
+      <item Text="XpressQuantumGrid" />
+      <item Text="XpressQuantumTreeList" />
+      <item Text="XpressEditors Library" />
+      <item Text="XpressInspector" />
+      <item Text="XpressSideBar" />
+      <item Text="XpressPrinting System" />
+      <item Text="XpressFree Library" />
+    </item>
+  </item>
+  <item Text="Support">
+    <item Text="Get Support">
+      <item Text="Support Center" />
+      <item Text="Knowledge Base" />
+      <item Text="Online Documentation" />
+    </item>
+    <item Text="Community">
+      <item Text="Community Site (new window)" />
+      <item Text="Newsgroups" />
+      <item Text="DX-Squad" />
+    </item>
+    <item Text="Licensing Questions">
+      <item Text="Common Licensing Questions" />
+      <item Text="License Agreements" />
+    </item>
+    <item Text="Current Version/Build" />
+  </item>
+		<item Text="Order">
+				<item Text="100% Native .NET Technologies" />
+				<item Text="Delphi - C++ Builder Technologies" />
+				<item Text="100% ATL Based ActiveX Technologies" />
+				<item Text="Upgrade (Login Required)" />
+				<item Text="Subscription Services" />
+				<item Text="Frequently Asked Questions" />
+		</item>
+  <item Text="Subscriptions" />
+  <item Text="Client Center" />
+</mainmenu>
