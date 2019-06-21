@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to find a node by its text using the GetNodeByText method
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2445/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to find a node by its text on the client side.<br />
